@@ -1,5 +1,5 @@
 # ConnectSphere
-ConnectSphere is a real-time chat web application where users can register, create profiles, update their interests, find people with similar interests, send friend requests, and chat privately. It focuses on helping users connect meaningfully through shared interests and conversations, offering a clean UI and smooth, responsive experience across devices.
+ConnectSphere is a real-time chat web application where users can register, create profiles, update their interests, find people with similar interests, send friend requests, and chat privately. It focuses on helping users connect meaningfully through shared interests and conversations, offering a clean UI and smooth, responsive experience across devices..
 
 # Tech Stack Used:
 Frontend: React.js,
